@@ -45,3 +45,4 @@ APScheduler==3.10.4
 # Image Processing Enhancement
 Pillow==10.1.0
 
+# Existing packages tetap dipertahankan...
