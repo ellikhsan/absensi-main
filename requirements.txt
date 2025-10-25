@@ -1,0 +1,48 @@
+# Flask Core
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Database
+pandas==2.1.4
+
+# Face Recognition (pakai binary biar nggak compile)
+face-recognition==1.3.0
+dlib-binary
+numpy==1.24.3
+
+# PDF Generation
+reportlab==4.0.7
+
+# Excel Support
+openpyxl==3.1.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Security & Rate Limiting
+Flask-Limiter==3.5.0
+Flask-WTF==1.2.1
+
+# Logging
+python-json-logger==2.0.7
+
+# Pillow (Image Processing)
+Pillow==10.1.0
+
+# Gunicorn (Production Server)
+gunicorn==21.2.0
+
+# Security
+cryptography==41.0.7
+python-json-logger==2.0.7
+
+# Rate Limiting
+redis==5.0.1  # Optional, fallback to memory if not available
+
+# Scheduling
+APScheduler==3.10.4
+
+# Image Processing Enhancement
+Pillow==10.1.0
+
+# Existing packages tetap dipertahankan...
